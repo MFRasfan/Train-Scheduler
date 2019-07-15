@@ -1,0 +1,16 @@
+.responsive {
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
+
+  .container {
+    color:black;
+    font-style: bold;
+    font-family: fantasy;
+    text-align: center;
+    font-size: 25px;
+  }
+
+
+
